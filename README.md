@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrew Tirpok</h1>
+<h1 align="center">Hi, I'm Andrew Tirpok</h1>
 <h3 align="center">Strategic, analytical, and tactical Front-End Developer skilled in HTML5, CSS3, JavaScript, React, and Next.js, with extensive experience across diverse frameworks and libraries. Currently working for Bootpack Digital in Salt Lake City</h3>
 
 - 🌱 I’m currently working with **Next JS, TypeScript and Sanity.io**
