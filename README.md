@@ -5,7 +5,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://andrew-tirpok.io](https://andrew-tirpok.io)
 
-- 💬 Ask me about **React JS and Tailwind CSS**
+- 💬 Ask me about **Next JS and Tailwind CSS**
 
 - 📫 How to reach me **atirpok3@gmail.com**
 
