@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Andrew Tirpok</h1>
 <h3 align="center">Strategic, analytical, and tactical Front-End Developer skilled in HTML5, CSS3, JavaScript, TypeScript, React, and Next.js, with extensive experience across diverse frameworks and libraries.</h3>
 
-- 🌱 I’m currently working with **Next JS, TypeScript and Sanity.io**
+- 🌱 I’m currently working with **Next JS, React and TypeScript** on **Azure DevOps**, so not a lot going on here 😔
 
 - 👨‍💻 Some of my projects are available at [https://andrew-tirpok.io](https://andrew-tirpok.io)
 
