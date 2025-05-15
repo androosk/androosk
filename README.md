@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **atirpok3@gmail.com**
 
-- 📄 [See my resume](https://www.dropbox.com/scl/fi/iwtjwjo5alo92lt7r96ef/Andrew-Tirpok-Resume.pdf?rlkey=01z8nrzedo0l1yvopz35cczvs&st=cjisu6w1&dl=0)
+- 📄 [See my resume](https://www.dropbox.com/scl/fi/jdo0li8t63217t5ux3pir/Andrew-Tirpok-Resume.pdf?rlkey=2382pqvoifnr84whl9fnad84i&st=jky0kkyu&dl=0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
