@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Andrew Tirpok</h1>
 <h3 align="center">Strategic, analytical, and tactical Front-End Developer skilled in HTML5, CSS3, JavaScript, TypeScript, React, and Next.js, with extensive experience across diverse frameworks and libraries.</h3>
 
-### <h3 align="center">🌱 I’ve been working with **Next JS, React and TypeScript** on **Azure DevOps** for more than a year,<br/>so there's not a lot going on here 😔 BUT I am working on a new mobile app project right now ☺️</h3>
-
 - 👨‍💻 Some of my projects are available at [https://andrew-tirpok.io](https://andrew-tirpok.io)
 
 - 💬 Ask me about **Next JS and Tailwind CSS**
