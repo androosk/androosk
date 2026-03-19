@@ -5,9 +5,6 @@ I'm a Front-End Software Engineer specializing in **React**, **Next.js**, and **
 ### 🔧 What I Work With
 React • Next.js • TypeScript • React Native • Tailwind • Node.js • Shopify/Liquid • C#/.NET APIs
 
-### 🌐 Portfolio
-https://andrew-tirpok.io
-
 ### 📬 Contact
 Email: atirpok3@gmail.com  
 LinkedIn: https://linkedin.com/in/andrew-tirpok
