@@ -1,4 +1,4 @@
-Andrew Tirpok
+# Andrew Tirpok
 
 Senior Software Engineer building production applications with React, TypeScript, and modern web tooling. Currently leading frontend development on a greenfield Salesforce Canvas application, architected in a pnpm/Turborepo monorepo with React 19, TanStack, Hono, and Zod.
 
