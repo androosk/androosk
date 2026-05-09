@@ -2,7 +2,7 @@
 
 Senior Software Engineer with 7 years of full-stack experience and a daily Claude Code habit since launch. Currently leading frontend development on a greenfield Salesforce Canvas application built with React 19, TypeScript, TanStack, Hono, and Zod in a pnpm/Turborepo monorepo.
 
-I work with coding agents the way most people work with an IDE — custom agents, skills, and MCP servers tuned over two years of heavy use. I have strong intuitions about where current frontier models fall over: places they shortcut codebase conventions, fail to proactively communicate design decisions, or produce plausible-but-wrong solutions that look right on first glance.
+I work with coding agents the way most people work with an IDE — custom agents, skills, and MCP servers tuned over a year of heavy use. I have strong intuitions about where current frontier models fall over: places they shortcut codebase conventions, fail to proactively communicate design decisions, or produce plausible-but-wrong solutions that look right on first glance.
 
 Most of my recent work involves high-volume, data-intensive applications where reliability and throughput aren't optional.
 
