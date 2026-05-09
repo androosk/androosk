@@ -9,14 +9,19 @@ Most of my recent work involves high-volume, data-intensive applications where r
 ## What I Work With
 
 **AI & Coding Agents:** Claude Code (daily, custom agents/skills/MCP setup), Anthropic API, Langchain, prompt engineering, agent orchestration, RAG with pgvector
+
 **Core:** React, TypeScript, Next.js, TanStack (Router/Query), Tailwind, Node.js
+
 **Backend & Infrastructure:** Hono, Redis, PostgreSQL, Supabase, Snowflake, Docker, AWS
+
 **Other Languages:** Python, Rust, C#, SQL
+
 **Architecture:** Monorepo patterns (Turborepo/pnpm), Zod schemas, CI/CD
 
 ## Contact
 
 Email: atirpok3@gmail.com
+
 LinkedIn: https://linkedin.com/in/andrew-tirpok
 
 ### Resume
