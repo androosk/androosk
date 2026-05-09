@@ -1,18 +1,22 @@
 # Andrew Tirpok
 
-Senior Software Engineer building production applications with React, TypeScript, and modern web tooling. Currently leading frontend development on a greenfield Salesforce Canvas application, architected in a pnpm/Turborepo monorepo with React 19, TanStack, Hono, and Zod.
+Senior Software Engineer with 7 years of full-stack experience and a daily Claude Code habit since launch. Currently leading frontend development on a greenfield Salesforce Canvas application built with React 19, TypeScript, TanStack, Hono, and Zod in a pnpm/Turborepo monorepo.
 
-I care about shipping fast, writing maintainable code, and building interfaces that hold up under real-world pressure. Most of my recent work involves high-volume, data-intensive applications where reliability and performance aren't optional.
+I work with coding agents the way most people work with an IDE — custom agents, skills, and MCP servers tuned over two years of heavy use. I have strong intuitions about where current frontier models fall over: places they shortcut codebase conventions, fail to proactively communicate design decisions, or produce plausible-but-wrong solutions that look right on first glance.
 
-### What I Work With
-**Core:** React, TypeScript, Next.js, TanStack (Router/Query), Tailwind, Node.js  
-**Backend & Infrastructure:** Hono, Redis, PostgreSQL, Supabase, Snowflake, Docker, AWS  
-**AI & Automation:** Claude API, Langchain, NLP pipelines, AI agent development, prompt engineering  
-**Other Languages:** Python, Rust, C#, SQL  
-**Architecture:** Monorepo patterns (Turborepo/pnpm), Zod schemas, CI/CD, WCAG 2.1 accessibility
+Most of my recent work involves high-volume, data-intensive applications where reliability and throughput aren't optional.
 
-### Contact
-Email: atirpok3@gmail.com  
+## What I Work With
+
+**AI & Coding Agents:** Claude Code (daily, custom agents/skills/MCP setup), Anthropic API, Langchain, prompt engineering, agent orchestration, RAG with pgvector
+**Core:** React, TypeScript, Next.js, TanStack (Router/Query), Tailwind, Node.js
+**Backend & Infrastructure:** Hono, Redis, PostgreSQL, Supabase, Snowflake, Docker, AWS
+**Other Languages:** Python, Rust, C#, SQL
+**Architecture:** Monorepo patterns (Turborepo/pnpm), Zod schemas, CI/CD
+
+## Contact
+
+Email: atirpok3@gmail.com
 LinkedIn: https://linkedin.com/in/andrew-tirpok
 
 ### Resume
