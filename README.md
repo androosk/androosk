@@ -20,4 +20,4 @@ Email: atirpok3@gmail.com
 LinkedIn: https://linkedin.com/in/andrew-tirpok
 
 ### Resume
-[View my resume](https://www.dropbox.com/scl/fi/6tix3lwvt9328ibot30mo/Andrew_Tirpok_resume.pdf?rlkey=6aje870oloh625mgtivyqxbbh&st=855poq7x&dl=0)
+[View my resume](https://www.dropbox.com/scl/fi/tjoe728pqj7yca1xc9spz/Andrew_Tirpok_current_resume.pdf?rlkey=b9pzhe916sxlr6ahqeo2ne947&st=f3dz30zl&dl=0)
