@@ -1,6 +1,6 @@
 # Andrew Tirpok
 
-Senior Software Engineer with 7 years of full-stack experience. Currently leading frontend development on a greenfield Salesforce Canvas application built with React 19, TypeScript, TanStack, Hono, and Zod in a pnpm/Turborepo monorepo.
+Senior Software Engineer with 7 years of full-stack experience. Currently at SafeStreets building a suite of standalone applications — React for inside sales, Svelte and React Native for field operations — that will progressively replace the company's legacy Salesforce platform. My scope has grown beyond development into architecture review alongside the team leads.
 
 I've spent the past year building a heavily customized coding-agent workflow, custom agents, skills, and MCP servers, all tuned through daily use. That mileage has given me strong intuitions about where current frontier models fall over: where they shortcut codebase conventions, fail to proactively communicate design decisions, or produce plausible-but-wrong solutions that look right at first glance.
 
