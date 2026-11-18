@@ -18,6 +18,3 @@ Most of my recent work involves high-volume, data-intensive applications where r
 Email: [atirpok3@gmail.com](mailto:atirpok3@gmail.com)
 
 LinkedIn: [Andrew Tirpok](https://linkedin.com/in/andrew-tirpok)
-
-### Resume
-[View my resume](https://www.dropbox.com/scl/fi/tjoe728pqj7yca1xc9spz/Andrew_Tirpok_current_resume.pdf?rlkey=b9pzhe916sxlr6ahqeo2ne947&st=xn12ujra&dl=0)
